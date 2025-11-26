@@ -1,5 +1,5 @@
 
-# Medical Consultation System
+# InstaMedix - A Real Time Live Doctor Consultation System
 
 A full-stack web application that facilitates remote video consultations between patients and doctors, including authentication, medical record management, and real-time video calling.
 
