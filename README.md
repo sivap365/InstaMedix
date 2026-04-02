@@ -58,8 +58,8 @@ A full-stack web application that facilitates remote video consultations between
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SakethKumarTallam/MedicalConsultingSystem.git
-cd MedicalConsultingSystem
+git clone https://github.com/sivap365/InstaMedix.git
+cd InstaMedix
 ```
 ### 2.Backend Setup 
 #### Environment Variables
